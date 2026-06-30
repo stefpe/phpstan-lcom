@@ -1,0 +1,8 @@
+parameters:
+    lcom4:
+        maxLcom4: 2
+
+services:
+    - class: D435345\PHPStanLcom\Rules\MaxLcom4Rule
+      arguments:
+        maxLcom4: %lcom4.maxLcom4%
