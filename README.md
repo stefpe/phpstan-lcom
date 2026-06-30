@@ -23,7 +23,7 @@ LCOM4 (Lack of Cohesion of Methods) measures how strongly the methods of a class
 ## Install
 
 ```bash
-composer require d435345/phpstan-lcom --dev
+composer require stefpe/phpstan-lcom --dev
 ```
 
 With [PHPStan extension installer](https://github.com/phpstan/extension-installer) the rule is registered automatically.

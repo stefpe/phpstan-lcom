@@ -1,5 +1,5 @@
 {
-    "name": "d435345/phpstan-lcom",
+    "name": "stefpe/phpstan-lcom",
     "description": "PHPStan rule to calculate LCOM4 (Lack of Cohesion of Methods) and report classes with low cohesion.",
     "type": "phpstan-extension",
     "license": "MIT",
